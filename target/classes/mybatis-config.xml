@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+ "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<typeAliases>
+		<typeAlias type="com.icia.kream.dto.AskDTO" alias="askdto"/>
+		<typeAlias type="com.icia.kream.dto.BidDTO" alias="biddto"/>
+		<typeAlias type="com.icia.kream.dto.CommentDTO" alias="commentdto"/>
+		<typeAlias type="com.icia.kream.dto.LikeDTO" alias="likedto"/>
+		<typeAlias type="com.icia.kream.dto.MemberDTO" alias="memberdto"/>
+		<typeAlias type="com.icia.kream.dto.NoticeDTO" alias="noticedto"/>
+		<typeAlias type="com.icia.kream.dto.NotificationDTO" alias="notificationdto"/>
+		<typeAlias type="com.icia.kream.dto.OrderDTO" alias="orderdto"/>
+		<typeAlias type="com.icia.kream.dto.PointDTO" alias="pointdto"/>
+		<typeAlias type="com.icia.kream.dto.PointuseDTO" alias="pointusedto"/>
+		<typeAlias type="com.icia.kream.dto.ProductDTO" alias="productdto"/>
+		<typeAlias type="com.icia.kream.dto.QuestionDTO" alias="questiondto"/>
+		<typeAlias type="com.icia.kream.dto.SizeDTO" alias="sizedto"/>
+		<typeAlias type="com.icia.kream.dto.SnsDTO" alias="snsdto"/>
+	</typeAliases>
+</configuration>
